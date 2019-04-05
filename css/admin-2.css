@@ -1,0 +1,53 @@
+*{
+ margin:0;
+  padding:0;
+}
+body{
+  width:1200px;
+  height:auto;
+  margin:0 auto;
+}
+table{
+  width:1200px;
+  margin:0 auto;
+}
+table th{
+  font-size:20px;
+  width:1200px;
+  height:40px;
+  border-radius: 5px;
+  background:#fabb47;
+}
+table td{
+  margin:0 auto;
+  text-align:center;
+  width:700px;
+  height:30px;
+}
+table td input{
+  width:700px;
+  height:30px;
+  text-align:center;
+  border:1px solid #0003;
+  border-radius:5px;
+  margin-top:10px;
+}
+table td input:hover{
+  box-shadow:1px 1px 2px 0px;
+}
+table td button{
+  width:500px;
+  height:30px;
+  background:blue;
+  border:1px solid #0003;
+  border-radius: 5px;
+  margin-top:10px;
+}
+table td button:hover{
+  box-shadow:1px 1px 2px 0px;
+}
+
+
+
+
+

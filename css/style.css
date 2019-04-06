@@ -3,6 +3,7 @@ margin:0;
   padding:0;
 }
 body{
+  width:1340px;
   background:#0001;
   font-family:'Poppins';
   font-size:15px;
